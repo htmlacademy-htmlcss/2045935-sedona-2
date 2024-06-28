@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Юрий Жуковский](https://up.htmlacademy.ru/htmlcss-individual/2/user/2045935).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Остаповец](https://github.com/SeraphimEvil).
 
 ---
 
