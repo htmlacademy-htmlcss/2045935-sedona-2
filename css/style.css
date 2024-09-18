@@ -64,7 +64,7 @@ body {
 .hero {
   width: 1200px;
   height: 485px;
-  background-image: url("../img/hero.welcome/hero-background-img.jpg");
+  background-image: url("img/hero.welcome/hero-background-img.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-attachment: local;
